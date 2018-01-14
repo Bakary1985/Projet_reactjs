@@ -1,0 +1,13 @@
+.avatar{
+	width: 30%;
+	display: inline-block;
+}
+
+.img_avatar{
+	width: 90%;
+}
+
+.data{
+	width: 60%;
+	display: inline-block;
+}

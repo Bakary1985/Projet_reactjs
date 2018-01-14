@@ -1,0 +1,36 @@
+.tweeboxTextarea{
+	min-height: 100px;
+    background-color: #ecf0fb;
+  } 
+
+ textarea{
+ 	width: 95%;
+    min-height: 70px;
+    margin: 10px;
+    margin-bottom: 0px;
+    border-color: transparent;
+ }
+
+.tweeboxTextarea textarea.alert{
+ 	border:2px solid #d82020;
+ }
+
+ .count{
+ 	display: block;
+    margin-left: 91%;
+ }
+.action{
+	height: 40px;
+}
+
+
+button{
+	margin-left: 40%;
+    margin-top: -18px;
+    position: absolute;
+    height: 30px;
+    background-color: #76a4f9;
+    border-radius: 6px;
+    color: #fff;
+    border: none;
+ }
